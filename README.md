@@ -1,6 +1,6 @@
 ### Hello, I'm Alex Oh - I like to build things! 🛠️ ⌨️  🎹
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-oh&&exclude_repo=alex-oh.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alex-oh/alex-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
